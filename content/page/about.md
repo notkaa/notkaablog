@@ -1,19 +1,13 @@
 ---
-title: About me
-subtitle: Why you'd want to hang out with me
+title: About
+subtitle: pourquoi et pour qui
 comments: false
+
 ---
+Mon nom est Hervé, mais vous pouvez m'appeler Notkaa, voici mes caractéristiques :
 
-My name is The Dude. I have the following qualities:
+* Je fais des photos et des projections vidéos
+* Je suis un coureur et plus précisément un marathonien
+* Je collectionne les vinyles
 
-- I rock a great beard
-- I'm extremely loyal to my friends
-- I like bowling
-
-That rug really tied the room together.
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you
-just watch [my movie](https://en.wikipedia.org/wiki/The_Big_Lebowski) and it
-will answer **all** your questions.
+Si tout cela vous intéresse alors je suis heureux de partager ces quelques pages rédigées de manières non régulières avec vous.
