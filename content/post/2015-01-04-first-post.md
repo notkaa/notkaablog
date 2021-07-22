@@ -21,5 +21,4 @@ LUT2019
 * classement général : 894/2573
 * classement catégorie : 152/397
 
-{{< figure src="/images/2019/04/lut.jpg" >}}
-![image alt text](/images/2019/04/IMG_2735.jpg)
+
