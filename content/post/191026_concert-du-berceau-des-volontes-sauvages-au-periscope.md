@@ -4,7 +4,7 @@ categories = ["images"]
 date = 2019-10-26T00:00:00Z
 description = ""
 image = ""
-slug = "concert-du-berceau-des-volontes-sauvages-au-periscope"
+slug = ""
 tags = ["musique", "electronic music", "live", "concert"]
 title = "Le Concert du Berceau des Volontés Sauvages au Périscope"
 
