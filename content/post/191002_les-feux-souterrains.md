@@ -4,7 +4,7 @@ categories = ["images"]
 date = 2019-10-02T00:00:00Z
 description = ""
 image = "/uploads/2021-07-22-les_feux_souterrains_tiny.jpg"
-slug = "images"
+slug = ""
 tags = ["musique", "electronic music", "réalisation", "clip"]
 title = "Les feux souterrains"
 
