@@ -12,5 +12,3 @@ fields:
   type: tag_list
   default: []
   label: tag
-pages:
-- content/post/2015-01-04-first-post.md
