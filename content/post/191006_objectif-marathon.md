@@ -4,7 +4,7 @@ categories = ["running"]
 date = 2019-10-06T00:00:00Z
 description = ""
 image = ""
-slug = "objectif-marathon"
+slug = ""
 tags = ["running", "marathon", "RuninLyon"]
 title = "Mon premier marathon"
 
