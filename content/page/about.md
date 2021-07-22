@@ -4,7 +4,7 @@ subtitle: pourquoi et pour qui
 comments: false
 
 ---
-Mon nom est Hervé, mais vous pouvez m'appeler Notkaa, voici mes caractéristiques :
+Mon nom est Hervé, mais vous pouvez m'appeler Notkaa, voici en quelques mots qui je suis :
 
 * Je fais des photos et des projections vidéos
 * Je suis un coureur et plus précisément un marathonien
