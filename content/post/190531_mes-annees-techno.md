@@ -3,15 +3,12 @@ author = "Rv"
 categories = ["musique"]
 date = 2019-05-31T00:00:00Z
 description = ""
-draft = false
-image = "/images/2019/05/IMG_3048__1559289754_5.51.187.248.jpg"
-slug = "mes-annees-techno"
+image = ""
+slug = ""
 tags = ["musique", "souvenir", "electronic music"]
 title = "Mes années techno"
 
 +++
-
-
 Aujourd'hui un post un peu nostagique
 
 Récemment, j’ai replongé dans mes années techno en écoutant un superbe épisode du podcast [Discorama](https://podcloud.fr/podcast/discorama/episode/discorama-numero-29-la-techno-vol-1-feat-rheyi). Cette écoute de 2 heures m’a remémoré tous ces bons moments et m’a donné envie de les noter tellement ces années ont été fondatrices pour moi.
@@ -21,4 +18,4 @@ Pour l'anecdote, j'ai fait mon dernier set en tant que DJ lors de la fête ferme
 Bon, j'arrête, je deviens vieux con.....
 Cet épisode m'a fait replonger dans ces moments, et remonter tout ça à la surface. Un grand merci Simon et Simone !
 
-![image alt text](/images/2019/05/IMG_3048__1559289754_5.51.187.248.jpg)
+![](/uploads/2021-07-22-img_3048__1559289754_5-51-187-248.jpg)
