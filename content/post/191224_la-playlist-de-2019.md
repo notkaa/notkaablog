@@ -14,8 +14,4 @@ La musique qui m'a marquée cette année va de petites pépites découvertes au 
 
 Donc voici ma playlist 2019 diggée par mes soins qui sera close dans deux jours.
 
-{{< soundsgood2019 >}}
-
 Et voici celle concoctée par Apple Music en fonction de mes habitudes d'écoutes (avec quelques intrus du au partage de compte, mais je les laisses pour l'histoire).
-
-{{< replay2019 >}}
