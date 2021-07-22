@@ -1,9 +1,7 @@
-## Front Page Content
+## Hello
 
-This website is powered by [GitLab Pages](https://about.gitlab.com/features/pages/)
-/ [Hugo](https://gohugo.io) and can be built in under 1 minute.
-Literally. It uses the `beautifulhugo` theme which supports content on your front page.
-Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md`
-if you don't want any content here.
+Bienvenue sur mon site / canet de note / blog qui est hébergé [GitLab](https://about.gitlab.com/features/pages/)
+/ [Hugo](https://gohugo.io) et est propulsé par Hugo.
+Il est habillé avec le thème `beautifulhugo`.
 
-Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
+Bonne visite !
