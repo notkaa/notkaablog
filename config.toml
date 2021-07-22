@@ -2,10 +2,10 @@ baseurl = "https://pages.gitlab.io/hugo/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Beautiful Hugo"
+title = "Notkaa"
 canonifyurls  = true
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "fr"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
@@ -14,7 +14,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Hugo Blog Template for GitLab Pages"
+  subtitle = "carnet de notes"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -34,25 +34,15 @@ pygmentCodeFences = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
-  email = "youremail@domain.com"
-  facebook = "username"
-  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  name = "notkaa"
+  email = "rv@notkaa.xyz"
   gitlab = "username"
   github = "username"
   twitter = "username"
   reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
   instagram = "username"
   youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
   bandcamp = "username"
-  itchio = "username"
-  keybase = "username"
 
 
 [[menu.main]]
@@ -61,7 +51,7 @@ pygmentCodeFences = true
     weight = 1
 
 [[menu.main]]
-    name = "About"
+    name = "Qui ?"
     url = "page/about/"
     weight = 3
 
