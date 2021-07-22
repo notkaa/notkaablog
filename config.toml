@@ -1,84 +1,55 @@
-baseurl = "https://pages.gitlab.io/hugo/"
-contentdir    = "content"
-layoutdir     = "layouts"
-publishdir    = "public"
-title = "Notkaa"
-canonifyurls  = true
-
 DefaultContentLanguage = "fr"
-theme = "beautifulhugo"
+baseurl = "https://pages.gitlab.io/hugo/"
+canonifyurls = true
+contentdir = "content"
+layoutdir = "layouts"
 metaDataFormat = "yaml"
-pygmentsUseClasses = true
+publishdir = "public"
 pygmentCodeFences = true
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
-
-[Params]
-  subtitle = "carnet de notes"
-  logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
-  commit = false
-  rss = true
-  comments = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
-
+pygmentsUseClasses = true
+theme = "beautifulhugo"
+title = "Notkaa"
 [Author]
-  name = "notkaa"
-  email = "rv@notkaa.xyz"
-  gitlab = "username"
-  github = "username"
-  twitter = "username"
-  reddit = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  bandcamp = "username"
-
-
+bandcamp = "username"
+email = "rv@notkaa.xyz"
+github = "username"
+gitlab = "username"
+instagram = "username"
+name = "notkaa"
+reddit = "username"
+twitter = "username"
+youtube = "user/username"
+[Params]
+comments = true
+commit = false
+dateFormat = "January 2, 2006"
+favicon = "img/favicon.ico"
+logo = "img/avatar-icon.png"
+rss = true
+subtitle = "carnet de notes"
 [[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
-
+name = "Tags"
+url = "tags"
+weight = 6
 [[menu.main]]
-    name = "Qui ?"
-    url = "page/about/"
-    weight = 3
-
+name = "Code Sample"
+parent = "samples"
+url = "post/2016-03-08-code-sample"
+weight = 7
 [[menu.main]]
-    identifier = "samples"
-    name = "Samples"
-    weight = 2
-
+name = "Math Sample"
+parent = "samples"
+url = "post/2017-03-05-math-sample"
+weight = 3
 [[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
-    weight = 1
-
+name = "Big Image Sample"
+parent = "samples"
+url = "post/2017-03-07-bigimg-sample"
+weight = 1
 [[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
-    weight = 2
-
+identifier = "samples"
+name = "Samples"
+weight = 4
 [[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
-
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
+name = "Blog"
+weight = 2
