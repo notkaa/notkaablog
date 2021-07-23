@@ -22,7 +22,7 @@ youtube = "user/username"
 [Params]
 comments = true
 commit = false
-dateFormat = "January 2, 2006"
+dateFormat = "2 January, 2006"
 favicon = "img/favicon.ico"
 logo = "img/avatar-notkaa.png"
 rss = true
