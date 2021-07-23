@@ -1,5 +1,5 @@
 DefaultContentLanguage = "fr"
-baseurl = "https://pages.gitlab.io/hugo/"
+baseurl = "https://www.notkaa.xyz"
 canonifyurls = true
 contentdir = "content"
 layoutdir = "layouts"
@@ -13,18 +13,18 @@ title = "Notkaa"
 bandcamp = "username"
 email = "rv@notkaa.xyz"
 github = "username"
-gitlab = "username"
+gitlab = "notkaa"
 instagram = "username"
 name = "notkaa"
 reddit = "username"
-twitter = "username"
+twitter = "@not_kaa"
 youtube = "user/username"
 [Params]
 comments = true
 commit = false
 dateFormat = "January 2, 2006"
 favicon = "img/favicon.ico"
-logo = "img/avatar-icon.png"
+logo = "img/avatar-notkaa.png"
 rss = true
 subtitle = "carnet de notes"
 [[menu.main]]
