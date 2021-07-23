@@ -5,8 +5,7 @@ title: Photos
 date: 2021-07-22T22:00:00.000+00:00
 menu:
   main:
-    parent: samples
-    weight: 1
+    weight: 2
 draft: true
 
 ---

@@ -44,4 +44,4 @@ name = "Samples"
 weight = 4
 [[menu.main]]
 name = "Blog"
-weight = 2
+weight = 1
