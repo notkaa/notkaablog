@@ -1,12 +1,12 @@
 ---
-tag: []
+tag:
+- photo
 title: Photos
 date: 2021-07-22T22:00:00+00:00
 menu:
   main:
     parent: samples
     weight: 1
-draft: true
 
 ---
 \#Le berceau des volontés sauvages / Périscope 2019
