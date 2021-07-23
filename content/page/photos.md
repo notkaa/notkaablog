@@ -1,7 +1,7 @@
 ---
 tag: []
 title: Photos
-date: 
+date: 2021-07-22T22:00:00+00:00
 menu:
   main:
     parent: samples
