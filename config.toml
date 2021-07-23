@@ -26,7 +26,7 @@ dateFormat = "2 January, 2006"
 favicon = "img/favicon.ico"
 logo = "/uploads/2021-07-23-avatar.png"
 rss = true
-subtitle = "carnet de notes"
+subtitle = "mon carnet de notes"
 [[menu.main]]
 name = "Tags"
 url = "tags"
