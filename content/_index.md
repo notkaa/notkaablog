@@ -1,7 +1,5 @@
 ## Hello
 
-Bienvenue sur mon site / canet de note / blog qui est hébergé sur [GitLab](https://about.gitlab.com/features/pages/)
-et est propulsé par le moteur de site statique [Hugo](https://gohugo.io).
-Il est habillé avec le thème `beautifulhugo`.
+Bienvenue sur mon carnet de notes / blog, hébergé sur [GitLab](https://about.gitlab.com/features/pages/), propulsé par [Hugo](https://gohugo.io) et habillé avec le thème `beautifulhugo`.
 
-Bonne visite !
+Il n'a aucune autre prétention que de partager avec vous qui tomber dessus par hasard quelques mots autours de mes passions.
