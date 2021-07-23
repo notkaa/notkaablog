@@ -19,6 +19,7 @@ instagram = "notkaa0"
 # reddit = "username"
 twitter = "@not_kaa"
 youtube = "user/notkaa"
+vimeo = "notkaa"
 [Params]
 comments = false
 commit = false
