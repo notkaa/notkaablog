@@ -24,7 +24,7 @@ comments = true
 commit = false
 dateFormat = "2 January, 2006"
 favicon = "img/favicon.ico"
-logo = "img/avatar-notkaa.png"
+logo = "static/uploads/avatar.png"
 rss = true
 subtitle = "carnet de notes"
 [[menu.main]]
