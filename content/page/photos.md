@@ -2,6 +2,10 @@
 tag: []
 title: Photos
 date: 
+menu:
+  main:
+    parent: samples
+    weight: 1
 draft: true
 
 ---

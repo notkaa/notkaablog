@@ -10,16 +10,12 @@ pygmentsUseClasses = true
 theme = "beautifulhugo"
 title = "Notkaa"
 [Author]
-# bandcamp = "username"
 email = "rv@notkaa.xyz"
-# github = "username"
 gitlab = "notkaa"
 instagram = "notkaa0"
-# name = "notkaa"
-# reddit = "username"
 twitter = "@not_kaa"
-youtube = "user/notkaa"
 vimeo = "notkaa"
+youtube = "user/notkaa"
 [Params]
 comments = false
 commit = false
@@ -29,24 +25,19 @@ logo = "/uploads/2021-07-23-avatar.png"
 rss = true
 subtitle = "mon carnet de notes"
 [[menu.main]]
-name = "Tags"
-url = "tags"
-weight = 6
+name = "Math Sample"
+parent = "samples"
+url = "post/2017-03-05-math-sample"
+weight = 3
 [[menu.main]]
 name = "Code Sample"
 parent = "samples"
 url = "post/2016-03-08-code-sample"
 weight = 7
 [[menu.main]]
-name = "Math Sample"
-parent = "samples"
-url = "post/2017-03-05-math-sample"
-weight = 3
-[[menu.main]]
-name = "Big Image Sample"
-parent = "samples"
-url = "post/2017-03-07-bigimg-sample"
-weight = 1
+name = "Tags"
+url = "tags"
+weight = 6
 [[menu.main]]
 identifier = "samples"
 name = "Samples"
