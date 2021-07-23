@@ -15,7 +15,9 @@ draft: true
 
 {{</* figure thumb="-thumb" link="/uploads/2021-07-22-p1020787.jpg" caption="© Notkaa - 2019" */>}}
 
-{{</* figure thumb="-thumb" link="/img/triangle.jpg" caption="© Notkaa - 2019" */>}}
+{{</* figure thumb="-thumb" link="/uploads/2021-07-22-p1020788.jpg" caption="© Notkaa - 2019" */>}}
+
+{{</* figure thumb="-thumb" link="/uploads/2021-07-22-p1020788.jpg" caption="© Notkaa - 2019" */>}
 
 {{</* /gallery */>}}
 
