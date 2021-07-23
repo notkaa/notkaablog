@@ -25,23 +25,9 @@ logo = "/uploads/2021-07-23-avatar.png"
 rss = true
 subtitle = "mon carnet de notes"
 [[menu.main]]
-name = "Math Sample"
-parent = "samples"
-url = "post/2017-03-05-math-sample"
-weight = 3
-[[menu.main]]
-name = "Code Sample"
-parent = "samples"
-url = "post/2016-03-08-code-sample"
-weight = 7
-[[menu.main]]
 name = "Tags"
 url = "tags"
-weight = 6
-[[menu.main]]
-identifier = "samples"
-name = "Samples"
-weight = 4
+weight = 3
 [[menu.main]]
 name = "Blog"
 weight = 1
