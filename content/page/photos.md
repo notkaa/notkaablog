@@ -6,7 +6,6 @@ menu:
   main:
     parent: samples
     weight: 1
-draft: true
 
 ---
 {{</* gallery caption-effect="fade" */>}}
