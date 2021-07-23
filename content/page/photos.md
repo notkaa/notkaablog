@@ -11,11 +11,11 @@ draft: true
 ---
 {{</* gallery caption-effect="fade" */>}}
 
-{{</* figure thumb="-thumb" link="/uploads/2021-07-22-p1020786.jpg" */>}}
+{{</* figure thumb="-thumb" link="/uploads/2021-07-22-p1020786.jpg" caption="© Notkaa - 2019"*/>}}
 
-{{</* figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" */>}}
+{{</* figure thumb="-thumb" link="/uploads/2021-07-22-p1020787.jpg" caption="© Notkaa - 2019" */>}}
 
-{{</* figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" */>}}
+{{</* figure thumb="-thumb" link="/img/triangle.jpg" caption="© Notkaa - 2019" */>}}
 
 {{</* /gallery */>}}
 
