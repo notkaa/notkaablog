@@ -20,7 +20,7 @@ reddit = "username"
 twitter = "@not_kaa"
 youtube = "user/username"
 [Params]
-comments = true
+comments = false
 commit = false
 dateFormat = "2 January, 2006"
 favicon = "img/favicon.ico"
