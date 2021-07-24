@@ -8,7 +8,6 @@ menu:
   main:
     name: Photographies
     weight: 2
-draft: true
 
 ---
 ### concert au periscope
