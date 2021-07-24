@@ -1,12 +1,9 @@
 ---
 title: Photos
 subtitle: 'sélection de clichés '
-date: 2021-07-23T22:00:00+00:00
+date: 2021-07-23T22:00:00.000+00:00
 tags:
 - photos
-menu:
-  main:
-    weight: 2
 draft: true
 
 ---
