@@ -5,7 +5,7 @@ date = 2019-11-13T00:00:00Z
 description = ""
 image = ""
 slug = ""
-tags = ["running", "marathon", "marathonien", "RuninLyon"]
+tags = ["running"]
 title = "J’ai couru mon premier marathon"
 
 +++
