@@ -2,7 +2,7 @@
 author = "Rv"
 categories = []
 date = 2020-05-22T00:00:00Z
-description = "comment faire de la photo argentique maintenant"
+description = ""
 image = ""
 slug = ""
 tags = ["photographie"]
