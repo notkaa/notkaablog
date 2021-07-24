@@ -6,5 +6,3 @@ fields:
   type: image_gallery
   config: {}
   label: photo
-pages:
-- content/page/photos.md
