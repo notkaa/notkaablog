@@ -4,7 +4,7 @@ categories = ["images"]
 date = 2019-08-08T00:00:00Z
 description = ""
 image = ""
-slug = "berceau-des-volontes-sauvages"
+slug = ""
 tags = ["musique", "electronic music", "réalisation", "clip"]
 title = "Berceau des volontés sauvages le premier album"
 
