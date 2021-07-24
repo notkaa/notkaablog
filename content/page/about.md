@@ -1,10 +1,9 @@
 ---
-title: About
+title: Qui ?
 subtitle: pourquoi et pour qui
 comments: false
 menu:
   main:
-    name: Qui ?
     weight: 4
 
 ---
