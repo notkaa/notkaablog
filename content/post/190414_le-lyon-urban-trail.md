@@ -1,11 +1,11 @@
 +++
-author = "Rv"
-categories = ["running"]
+author = "notkaa"
+categories = []
 date = 2019-04-14T00:00:00Z
 description = ""
 image = ""
 slug = ""
-tags = ["running", "LUT2019", "trail"]
+tags = ["running"]
 title = "Le Lyon Urban Trail"
 
 +++
