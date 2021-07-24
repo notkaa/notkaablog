@@ -5,10 +5,6 @@ date: 2017-03-20
 tags:
 - example
 - photoswipe
-menu:
-  main:
-    name: Photos
-    weight: 2
 draft: true
 
 ---

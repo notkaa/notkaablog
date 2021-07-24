@@ -3,6 +3,9 @@ title: Photos
 subtitle: Making a Gallery
 date: 2017-03-20
 tags: []
+menu:
+  main:
+    weight: 2
 
 ---
 # Quelques photos
