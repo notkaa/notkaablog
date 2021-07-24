@@ -5,6 +5,7 @@ date = 2019-04-14T00:00:00Z
 description = ""
 image = ""
 slug = ""
+tag = ["running", "courses"]
 tags = ["running"]
 title = "Le Lyon Urban Trail"
 
