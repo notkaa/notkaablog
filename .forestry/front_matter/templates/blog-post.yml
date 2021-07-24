@@ -14,6 +14,7 @@ fields:
   label: tag
 pages:
 - content/page/photographies.md
+- content/post/190531_mes-annees-techno.md
 - content/post/191006_objectif-marathon.md
 - content/post/200418_clip_reverie_nonchalante.md
 - content/post/200522_photo_argentique.md

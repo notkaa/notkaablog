@@ -5,6 +5,7 @@ date = 2019-05-31T00:00:00Z
 description = ""
 image = ""
 slug = ""
+tag = ["blog"]
 tags = ["musique", "souvenir", "electronic music"]
 title = "Mes années techno"
 
