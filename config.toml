@@ -26,5 +26,8 @@ rss = true
 subtitle = "mon carnet de notes"
 [[menu.main]]
 name = "blog"
-url = "https://notkaa.xyz"
 weight = 1
+[[menu.main]]
+name = "Tags"
+url = "tags"
+weight = 6
