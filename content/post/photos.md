@@ -1,14 +1,16 @@
 ---
 title: Photos
-subtitle: Making a Gallery
-date: 2017-03-20
-tags: []
+subtitle: 'sélection de clichés '
+date: 2021-07-23T22:00:00+00:00
+tags:
+- photos
 menu:
   main:
     weight: 2
+draft: true
 
 ---
-# Quelques photos
+### concert au periscope
 
 {{< gallery caption-effect="fade" >}}
 {{< figure thumb="-thumb" link="/img/hexagon.jpg" >}}
