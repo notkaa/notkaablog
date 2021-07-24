@@ -1,11 +1,10 @@
 ---
 tag:
 - photographie
-title: Photographies
+title: photographies
 date: 2021-07-23T22:00:00+00:00
 menu:
   main:
-    name: photographies
     weight: 2
 
 ---
