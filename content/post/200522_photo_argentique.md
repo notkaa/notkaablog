@@ -1,11 +1,11 @@
 +++
 author = "Rv"
-categories = ["images"]
+categories = []
 date = 2020-05-22T00:00:00Z
 description = "comment faire de la photo argentique maintenant"
 image = ""
 slug = ""
-tags = ["photographie", "développement", "photo argentique"]
+tags = ["photographie"]
 title = "Ma pratique de la photo argentique"
 
 +++
