@@ -4,7 +4,7 @@ subtitle: pourquoi et pour qui
 comments: false
 menu:
   main:
-    weight: 1
+    weight: 3
 
 ---
 Mon nom est Hervé, mais vous pouvez m'appeler Notkaa, voici en quelques mots qui je suis :
