@@ -1,11 +1,11 @@
 +++
-author = "Notkaa"
-categories = ["images"]
+author = "notkaa"
+categories = []
 date = 2019-10-26T00:00:00Z
 description = ""
 image = ""
 slug = ""
-tags = ["musique", "electronic music", "live", "concert"]
+tags = ["réalisation", "djiing"]
 title = "Le Concert du Berceau des Volontés Sauvages au Périscope"
 
 +++
