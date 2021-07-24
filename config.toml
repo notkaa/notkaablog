@@ -25,6 +25,6 @@ logo = "/uploads/2021-07-23-avatar.png"
 rss = true
 subtitle = "mon carnet de notes"
 [[menu.main]]
-name = "Blog"
+name = "blog"
 url = "https://notkaa.xyz"
 weight = 1

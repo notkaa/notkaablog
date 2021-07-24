@@ -4,6 +4,7 @@ subtitle: pourquoi et pour qui
 comments: false
 menu:
   main:
+    name: qui ?
     weight: 3
 
 ---
