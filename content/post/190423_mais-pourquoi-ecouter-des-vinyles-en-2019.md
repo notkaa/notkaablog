@@ -1,6 +1,6 @@
 +++
-author = "Rv"
-categories = ["musique"]
+author = "notkaa"
+categories = []
 date = 2019-04-23T00:00:00Z
 description = ""
 image = ""
