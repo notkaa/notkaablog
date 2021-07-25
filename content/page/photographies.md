@@ -9,13 +9,4 @@ menu:
 
 ---
 ### concert
-
-{{< gallery caption-effect="fade" >}}
-{{< figure thumb="-thumb" link="/uploads/2021-07-22-p1020786.jpg" >}}
-{{< figure thumb="-thumb" link="/uploads/2021-07-22-p1020787.jpg" >}}
-{{< figure thumb="-thumb" link="/uploads/2021-07-22-p1020789.jpg" >}}
-{{< figure thumb="-thumb" link="/uploads/2021-07-22-p1020790.jpg" >}}
-{{< /gallery >}}
-{{< load-photoswipe >}}
-
-<!--more-->
+{{< gallery dir="/img/gallerie/periscope" />}}
