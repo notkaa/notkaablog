@@ -22,4 +22,6 @@ Et voilà que l'ami Joost publie un remix de _rêverie nonchalante_ un morceau d
 
 {{< youtube id=**"YhReWKqhXpg" title**="Rêverie nonchalante (Joost Van Der Weerd remix)" >}}
 
-J'ai hâte de poursuivre mes expérimentations et de pouvoir refaire du live ! En attendant, je vais continuer la réalisation de clips. Le confinement aide bien pour ça.
+J'ai hâte de poursuivre mes expérimentations et de pouvoir refaire du live !
+
+En attendant, je vais continuer la réalisation de clips. Le confinement aide bien pour ça.
