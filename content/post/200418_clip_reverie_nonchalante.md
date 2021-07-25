@@ -20,6 +20,6 @@ Pour apprendre, je préfère me lancer à fond dans un projet et à chaque fois 
 
 Et voilà que l'ami Joost publie un remix de _rêverie nonchalante_ un morceau de l'album _Seuil_ pour lequel j'avais déjà réalisé un clip. J'ai saisi cette main tendue et je me suis lancé. L'intégralité du processus de création est visible [ici](https://youtu.be/WoKIkPrs3Ss), il y en a environ pour 2h00 et je le garde comme mémoire de ce travail de recherche. Le résultat final est vraiment cool. Il est visible sur la chaine [Youtube](https://www.youtube.com/channel/UC7mMBn0XfM2X1jFGUQowipQ) du groupe ainsi que sur mon [vimeo](https://vimeo.com/showcase/6597446).
 
-![](/uploads/2021-07-22-2.jpg)![](/uploads/2021-07-22-1.jpg)
+{{< youtube id**=**"YhReWKqhXpg" title**=**"Rêverie nonchalante (Joost Van Der Weerd remix)" >}}
 
 J'ai hâte de poursuivre mes expérimentations et de pouvoir refaire du live ! En attendant, je vais continuer la réalisation de clips. Le confinement aide bien pour ça.
