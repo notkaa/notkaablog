@@ -9,4 +9,5 @@ menu:
 
 ---
 ### concert
-{{< gallery dir="/img/gallerie/periscope" />}}
+
+{{< gallery dir="img/gallerie/periscope" />}}
