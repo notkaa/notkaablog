@@ -8,6 +8,8 @@ menu:
     weight: 2
 
 ---
-### concert
+Je partage mes photos sur [pixelfed](https://pixelfed.social), qui est une sorte d'Instagram décentralisé, ouvert, fédéré et respectueux des utilisateurs. Si vous voulez en savoir plus, vous pouvez aller lire [ceci](https://pixelfed.social/site/about).
 
-{{< gallery dir="img/gallerie/periscope" />}}
+Mes photos sont organisées en album :
+
+### [Musique](https://pixelfed.social/c/332806093870862336)
