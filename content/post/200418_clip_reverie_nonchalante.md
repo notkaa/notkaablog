@@ -3,7 +3,6 @@ author = "Rv"
 categories = []
 date = 2020-04-18T00:00:00Z
 description = ""
-draft = true
 image = ""
 slug = ""
 tag = ["réalisation"]
