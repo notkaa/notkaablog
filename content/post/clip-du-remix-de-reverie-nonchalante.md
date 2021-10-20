@@ -3,7 +3,6 @@ tag:
 - réalisation
 title: Clip du remix de réverie nonchalante
 date: 2020-04-17T22:00:00+00:00
-draft: true
 
 ---
 ![](/uploads/2021-07-22-1.jpg)
