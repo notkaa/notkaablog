@@ -11,7 +11,7 @@ theme = "beautifulhugo"
 title = "Notkaa"
 [Author]
 email = "rv@notkaa.xyz"
-gitlab = "notkaa"
+github = "notkaa"
 instagram = "notkaa0"
 twitter = "@not_kaa"
 vimeo = "notkaa"
