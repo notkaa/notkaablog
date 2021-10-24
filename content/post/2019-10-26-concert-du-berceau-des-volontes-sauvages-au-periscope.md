@@ -2,11 +2,7 @@
 author = "notkaa"
 categories = []
 date = 2019-10-26T00:00:00Z
-description = ""
-image = ""
-slug = ""
-tag = ["musique", "djiing"]
-tags = ["réalisation", "djiing"]
+tags = ["réalisation", "vjiing"]
 title = "Le Concert du Berceau des Volontés Sauvages au Périscope"
 
 +++
