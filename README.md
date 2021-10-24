@@ -1,1 +1,1 @@
-Le code source de mon blog hébergé par Gitlab, propulsé par Hugo
+Le code source de mon blog : notkaa.xyz hébergé par Github, propulsé par Hugo et Cloudflare.
