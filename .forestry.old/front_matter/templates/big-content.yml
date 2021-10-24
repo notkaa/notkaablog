@@ -1,8 +1,0 @@
----
-label: big content
-hide_body: false
-fields:
-- name: photo
-  type: image_gallery
-  config: {}
-  label: photo
