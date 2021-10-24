@@ -37,19 +37,19 @@ weight = 1
 
 [[menu.main]]
     identifier = "raccourcis"
-    name = "Samples"
+    name = "raccourcis"
     weight = 2
 
 [[menu.main]]
     parent = "raccourcis"
     name = "photographies"
-    url = "post/2017-03-07-bigimg-sample"
+    url = "/page/photographies.md"
     weight = 1
 
 [[menu.main]]
     parent = "raccourcis"
     name = "vidéos"
-    url = "post/2017-03-05-math-sample"
+    url = "/page/photographies.md"
     weight = 2
 
 [[menu.main]]
