@@ -7,7 +7,7 @@ menu:
     weight: 3
 
 ---
-Mon nom est Hervé, mais vous pouvez m'appeler Notkaa, voici en quelques mots qui je suis :
+Mon nom est Hervé, mais vous pouvez me trouver le plus souvent sur différentes plateformes ou communauté sous le nom de Notkaa. Voici en quelques mots qui je suis :
 
 * Je fais des photos et des projections vidéos
 * Je suis un coureur et plus précisément un marathonien
