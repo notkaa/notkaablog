@@ -26,7 +26,7 @@ Finalement je tombe sur [ce billet](https://hugo.md/post/moving-to-cloudflare-pa
     il faut déclarer un CNAME pointant www vers nomdusite.pages.dev
     
     Dans Rules :   
-    il faut créer une règle redirigeant htts://nomdusite.xxx/* vers https://wwww.nomdusite/$1 (Status Code: 301 - Permanent Redirect)
+    il faut créer une règle redirigeant https://nomdusite.xxx/* vers https://wwww.nomdusite/$1 (Status Code: 301 - Permanent Redirect)
 
 * Rédaction directement dans Github sur le web
 * Management des fichiers via [Github dev](https://github.dev/) qui ouvre le dépôt en mode Visual Studio Code. Pour cela c'est très simple, il suffit de remplacer le github**.com** par github**.dev** en naviguant sur votre dépôt.
