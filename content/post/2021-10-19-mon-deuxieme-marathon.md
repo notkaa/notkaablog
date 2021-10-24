@@ -4,7 +4,6 @@ categories = []
 date = 2021-10-19T22:00:00Z
 tags = ["running", "marathon"]
 title = "Mon deuxième marathon"
-draft: false
 +++
 
 Après une année complète de course en pause, je me suis inscrit au marathon de Lyon pour conjurer un peu le mauvais sort. Objectif de cette année, faire mieux que pour mon précédent marathon (4 h 14), je m'inscris donc dans le sas des 4 h 00.  Gagner 14 minutes, c’est un gros gap. Dans ma tête, je voulais faire juste un peu mieux. Mais je me suis tout de même entrainé en conséquence avec 4 sorties par semaine et un début de l'entrainement en juillet.
