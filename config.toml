@@ -8,7 +8,7 @@ publishdir = "public"
 pygmentCodeFences = true
 pygmentsUseClasses = true
 theme = "beautifulhugo"
-title = "Notkaa"
+title = "notkaa"
 [Author]
 email = "rv@notkaa.xyz"
 github = "notkaa"
