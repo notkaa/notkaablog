@@ -2,10 +2,6 @@
 title: qui ?
 subtitle: pourquoi et pour qui
 comments: false
-menu:
-  main:
-    weight: 3
-
 ---
 Mon nom est Hervé, mais vous pouvez me trouver le plus souvent sur différentes plateformes ou communauté sous le nom de Notkaa. Voici en quelques mots qui je suis :
 
