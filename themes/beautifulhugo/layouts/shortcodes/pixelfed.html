@@ -1,0 +1,8 @@
+{{ with .Get "id" }}
+    <iframe
+        src="https://pixelfed.social/p/Notkaa/{{ . }}/embed?caption=false&likes=false&layout=compact"
+        style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen">
+        	
+     </iframe>
+     <script async defer src="https://pixelfed.social/embed.js"></script>
+{{ end }}
