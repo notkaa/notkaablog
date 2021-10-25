@@ -43,13 +43,13 @@ weight = 1
 [[menu.main]]
     parent = "raccourcis"
     name = "photographies"
-    url = "/page/photographies.md"
+    url = "/content/page/photographies.md"
     weight = 1
 
 [[menu.main]]
     parent = "raccourcis"
     name = "vidéos"
-    url = "/page/photographies.md"
+    url = "/content/page/photographies.md"
     weight = 2
 
 [[menu.main]]
