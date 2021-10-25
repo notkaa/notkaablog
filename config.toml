@@ -26,6 +26,9 @@ logo = "/uploads/2021-07-23-avatar.png"
 rss = true
 subtitle = "mon carnet de notes"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [[menu.main]]
 name = "blog"
 weight = 1
