@@ -1,8 +1,12 @@
 +++
-author = "notkaa"
+author = "Rv"
 categories = []
 date = 2020-05-22T00:00:00Z
-tags = ["blog"]
+description = ""
+image = ""
+slug = ""
+tag = ["photographie", "blog"]
+tags = ["photographie"]
 title = "Ma pratique de la photo argentique"
 
 +++

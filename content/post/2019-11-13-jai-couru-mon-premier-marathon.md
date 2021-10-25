@@ -1,7 +1,12 @@
 +++
-author = "notkaa"
+author = "Rv"
+categories = ["running"]
 date = 2019-11-13T00:00:00Z
-tags = ["running", "marathon"]
+description = ""
+image = ""
+slug = ""
+tag = ["running", "courses"]
+tags = ["running"]
 title = "J’ai couru mon premier marathon"
 
 +++
