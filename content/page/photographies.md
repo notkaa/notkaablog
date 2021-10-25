@@ -8,6 +8,7 @@ Je partage mes photos sur [pixelfed](https://pixelfed.social), qui est une sorte
 
 Mes photos sont organisées en album :
 
+{{< pixelfed id="332829140598263808" >}}
 ### [Musique](https://pixelfed.social/c/332806093870862336)
 
-{{< pixelfed id="354363650047899429" >}}
+
