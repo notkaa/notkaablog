@@ -1,12 +1,10 @@
----
-tag:
-- running
-- " blog"
-title: Mon deuxième marathon
-date: 2021-10-19T22:00:00+00:00
-draft: false
++++
+author = "notkaa"
+date = 2021-10-19T22:00:00+00:00
+tags = ["running"]
+title = "Mon deuxième marathon"
++++
 
----
 Après une année complète de course en pause, je me suis inscrit au marathon de Lyon pour conjurer un peu le mauvais sort. Objectif de cette année, faire mieux que pour mon précédent marathon (4 h 14), je m'inscris donc dans le sas des 4 h 00.  Gagner 14 minutes, c’est un gros gap. Dans ma tête, je voulais faire juste un peu mieux. Mais je me suis tout de même entrainé en conséquence avec 4 sorties par semaine et un début de l'entrainement en juillet.
 
 J'ai abordé les vacances d'été bien fatigué de mon année de travail, j'ai lancé un gros projet et je n'ai pas pris assez de congés. Je me suis donc accordé 2 semaines de repos sans entrainement et j'ai repris de plus belle en septembre.
