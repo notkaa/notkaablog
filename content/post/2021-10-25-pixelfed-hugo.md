@@ -21,4 +21,4 @@ Pour embraquer une photo Pixelfed, il faut placer un de ces shortcodes que j'ai 
 {{< gist notkaa 758df36da570d970d3b5079e833c5f2f >}}
 
 Puis dans le post l'appeler avec un :  
-{{< pixelfed id="xxxxxxxxxxx" >}}
+    {{< pixelfed id="xxxxxxxxxxx" >}}
