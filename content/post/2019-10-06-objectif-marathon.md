@@ -1,12 +1,7 @@
 +++
-author = "Rv"
-categories = ["running"]
+author = "notkaa"
 date = 2019-10-06T00:00:00Z
-description = ""
-image = ""
-slug = ""
-tag = ["running"]
-tags = ["running", "marathon", "RuninLyon"]
+tags = ["running"]
 title = "Mon premier marathon"
 
 +++
