@@ -4,7 +4,7 @@ categories = []
 date = 2021-10-25T22:00:00Z
 tags = ["hugo"]
 title = "Insérer une image Pixelfed dans un post Hugo"
-draft = false
+draft = true
 +++
 
 Petit billet penses bête, mes photos sont hébergées et partagées sur Pixelfed (faites le vous aussi, abandonnez Instagram). 
