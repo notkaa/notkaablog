@@ -1,12 +1,7 @@
 +++
-author = "Notkaa"
-categories = ["réalisation "]
+author = "notkaa"
 date = 2019-08-08T00:00:00Z
-description = ""
-image = ""
-slug = ""
-tag = ["blog", "musique"]
-tags = ["musique", "electronic music", "réalisation", "clip"]
+tags = ["blog"]
 title = "Berceau des volontés sauvages le premier album"
 
 +++
