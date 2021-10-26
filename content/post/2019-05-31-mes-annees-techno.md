@@ -1,12 +1,7 @@
 +++
-author = "Rv"
-categories = ["musique"]
+author = "notkaa"
 date = 2019-05-31T00:00:00Z
-description = ""
-image = ""
-slug = ""
-tag = ["blog"]
-tags = ["musique", "souvenir", "electronic music"]
+tags = ["blog"]
 title = "Mes années techno"
 
 +++
