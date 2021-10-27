@@ -21,12 +21,7 @@ Pour intégrer une photo Pixelfed dans un post, il faut placer un de ces shortco
 
 Il faut aussi rajouter ces lignes dans config.toml
 
-[markup.goldmark.renderer]
+[markup.goldmark.renderer]  
 unsafe = true
 
-Puis dans le post l'appeler avec un :  
 
-```
-{{< pixelfed id="xxxxxxxxxxx" >}}
-```
-xxxxxxxxxxx étant l'id de la photo à intégrer.
