@@ -4,7 +4,6 @@ categories = []
 date = 2021-10-28T22:00:00Z
 tags = ["notes"]
 title = "FTPS dans OpenMediaVault"
-draft = false
 +++
 
 Je pose cette petite note ici, car cette configuration m'a donné du fil à retordre.
