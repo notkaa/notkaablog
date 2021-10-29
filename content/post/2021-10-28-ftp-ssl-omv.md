@@ -6,8 +6,8 @@ tags = ["notes"]
 title = "FTPS dans OpenMediaVault"
 +++
 
-Je pose cette petite note ici, car cette configuration m'a donné du fil à retordre.
-Voici les différents points sensibles à vérifier sur la configuration :
+Je pose cette petite note ici, car cette configuration m'a donnée du fil à retordre.
+Voici les différents points sensibles à vérifier sur la configuration de proFTP :
 
  - Récupérer le certificat ssl chez Cloudflare (il a l'avantage d'être valide 15 ans)
  - Coller les clés dans Système/Certificats/SSL
