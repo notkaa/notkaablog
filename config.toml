@@ -7,7 +7,7 @@ metaDataFormat = "yaml"
 publishdir = "public"
 pygmentCodeFences = true
 pygmentsUseClasses = true
-theme = "beautifulhugo"
+theme = "hello-friend"
 title = "notkaa"
 [Author]
 email = "rv@notkaa.xyz"
