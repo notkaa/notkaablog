@@ -19,4 +19,4 @@ Le lendemain, quasiment aucunes courbatures, physiquement j'étais prêt. Mais j
 
 Je suis un jeune marathonien, j'adore cette distance, j'aime aussi le fait qu'il me reste à quasiment 50 ans tellement de choses à apprendre.
 
-{{< runalyze mgbv4 >}}
+{{< runalyze id="mgbv4" >}}

@@ -10,4 +10,4 @@ Voilà, j’ai couru mon premier marathon. C’était il y a un mois maintenant 
 
 Ce fût une belle journée pour nous deux.
 
-{{< runalyze 6o3v6 >}}
+{{< runalyze id="6o3v6" >}}
