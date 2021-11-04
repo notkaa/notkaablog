@@ -18,3 +18,5 @@ La suite ? Nous rentrons à la maison, je m'évanouis dans le métro quelques in
 Le lendemain, quasiment aucunes courbatures, physiquement j'étais prêt. Mais j'ai raté mon alimentation les semaines avant et pendant la course. C'est la leçon que j'en tire. tous les facteurs comptent, vraiment tous.
 
 Je suis un jeune marathonien, j'adore cette distance, j'aime aussi le fait qu'il me reste à quasiment 50 ans tellement de choses à apprendre.
+
+{{< youtube H7SbWG0uIAU >}}
